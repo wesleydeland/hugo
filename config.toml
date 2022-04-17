@@ -1,0 +1,8 @@
+baseURL = 'https://blog.wesleydeland.com/'
+languageCode = 'en-us'
+title = "Wesley's Blog"
+theme = "LoveIt"
+
+[params]
+  # LoveIt theme version
+  version = "0.2.X"
